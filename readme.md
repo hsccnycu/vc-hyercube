@@ -1,15 +1,8 @@
-| {u, v}                                               | 3   | 4     | 5      | 6      | 7       |
-|------------------------------------------------------|-----|-------|--------|--------|---------|
-| {a, b}, {a, f}, {b, e}, {b, f}                       | -   | Z₄    | Z₉     | Z₁₁    | Z₁₄     |
-| {a, c}                                               | -   | Z₃    | Z₈     | Z₁₂    | Z₁₄     |
-| {a, d}                                               | Z₁  | Z₃    | Z₈     | Z₁₂    | Z₁₄     |
-| {a, e}                                               | Z₂  | Z₄    | Z₈     | Z₁₂    | Z₁₄     |
-| {a, g}                                               | -   | -     | Z₈     | Z₁₂    | Z₁₄     |
-| {b, c}, {b, d}                                       | -   | Z₃    | Z₇     | Z₁₃    | Z₁₄     |
-| {b, g}, {c, f}                                       | -   | Z₅    | Z₁₀    | Z₁₁    | Z₁₄     |
-| {c, d}, {c, e}, {c, g}, {d, g}                       | -   | Z₆    | Z₈     | Z₁₃    | Z₁₄     |
-| {d, e}                                               | Z₁  | Z₆    | Z₈     | Z₁₂    | Z₁₄     |
-| {d, f}                                               | -   | -     | Z₇     | Z₁₂    | Z₁₄     |
-| {e, f}                                               | Z₂  | Z₄    | Z₉     | Z₁₂    | C₁₃     |
-| {e, g}                                               | Z₂  | Z₆    | Z₉     | Z₁₂    | C₁₃     |
-| {f, g}                                               | Z₂  | Z₅    | Z₉     | Z₁₂    | C₁₃     |
+k-Vertex-Constrained Bipancyclicity of Hypercubes — Supplementary Materials
+
+This repository contains supplementary materials for the paper:
+
+“k-Vertex-Constrained Bipancyclicity of Hypercubes”
+Cheng-Kuan Lin, Xiawei Zhang, Hong Chen, Eddie Cheng, László Lipták, 2025.
+
+The repository provides detailed constructions, enumerations, and verification scripts that support the proofs in the paper. To keep the main manuscript concise and focused on theory, lengthy examples, explicit cycle listings, and exhaustive case analyses are included here.
